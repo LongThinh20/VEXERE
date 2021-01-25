@@ -1,0 +1,6 @@
+{
+  "dbUrl": "mongodb+srv://longthinh202:longthinh20222@cluster0.kmq0v.mongodb.net/vexere?retryWrites=true&w=majority",
+  "port": 3000,
+  "sgAPIKey": "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",
+  "jwtSignature": "vexerejwt"
+}
